@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'ChatGPT',
+  title: 'Google Classroom',
   description: 'An unofficial GPT 3.5 Model',
 }
 
